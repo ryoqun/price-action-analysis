@@ -4,9 +4,9 @@ The breach of trend channel line happened at two bar reversal. Then a trading ra
 
 Then the market had clear development.
 
-As shown by trend lines and trend channel lines, the market had two-legged bull monumental.
+As shown by trend lines and trend channel lines, the market had two-legged bull momentum.
 
-After going above the high of trading range 4, I sensed the shift of rhythm ringing from the market. That is, embodiment of strong bull advance.
+After going above the high of trading range 4, I sensed the shift of rhythm ringing from the market even more. That is, embodiment of strong bull accelerated advance.
 
 However, I missed to be in the market the break out at the end of trading range 4.
 
