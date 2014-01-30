@@ -6,6 +6,6 @@ Sadly, after I bailed out, the market moved down quite impressively.
 
 After low 1 failed, the triangle 2 was converging price, aimming to the moving average.
 
-Although, it isn't visible in this chart, the bar 3 really dropped instantly, so it was likely that further equivalent mesusured bargain is expected. So, I opened a bear position, then quickly profitting from following bear spike bar.
+Although, it isn't visible in this chart, the bar 3 really dropped instantly in the order of seconds, not not minutes, so it was likely that further equivalent mesusured bargain is expected. So, I opened a bear position, then quickly profitting from the following bear spike bar.
 
-So it's kinkd of a micro spike and channel pattern.
+So it's kind of a micro spike and channel pattern.
