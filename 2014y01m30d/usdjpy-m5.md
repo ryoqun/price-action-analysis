@@ -10,7 +10,7 @@ After going above the high of trading range 4, I sensed the shift of rhythm ring
 
 However, I missed to be in the market the break out at the end of trading range 4.
 
-So, as a second entry, I opened a bull position with stop loss of high of trading range 4, gathering of bulls at the micro triangle.
+So, as a second entry, I opened a bull position with stop loss of high of trading range 4, a gathering point of bulls at the micro triangle.
 
 Sadly, I was wrong. The bulls failed after a while, forming the trading range 5. Before the formation, I had promptly exited from the market before the stop loss order was triggered.
 
