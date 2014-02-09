@@ -4,7 +4,7 @@ The today's later part of the upward breakout was indicated by a rather strong b
 
 The today's major breakout occurred at the strong bull bar 1. And it was followed by another similar strong bull bar 2. So I eagerly opened a position in the middle of the formation of the bar 2.
 
-I was aware this trading is a bit early entry. So, after admitting the trading range 5 is formed, I bumped my position. I was afraid that this wasn't a triangle breakout, rather just top of the major trading range. Only after, there was another strong bull channel I hoped for.
+I was aware this trading is a bit early entry. So, after admitting the trading range 5 is formed, I bumped my position. I was afraid that this wasn't a triangle breakout, rather just top of the emerging major trading range. Only after, there was another strong bull channel I hoped for.
 
 I didn't hesitated to be in the market this time with eager mind. This time too, in the middle of the last bar of the trading range 5, I just sensed an impeding bull breakout. So I did act on accordingly, immediately locking a measured-move profit.
 
