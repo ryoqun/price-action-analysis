@@ -1,3 +1,6 @@
+![alt text](https://raw2.github.com/ryoqun/price-action-analysis/master/2014y02m07d/usdjpy-m5.png "Logo Title Text 1")
+
+
 Overall, today's USDJPY created a major triangle 3 and a bull channel breaking from it. And I traded eagerly with bull mind.
 
 The today's later part of the upward breakout was indicated by a rather strong bull channel 4 with three push-ups, first. Then market drifted almost horizontally, with weak declination of the price, second.
