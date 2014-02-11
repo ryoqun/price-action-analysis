@@ -1,4 +1,4 @@
-!(https://raw2.github.com/ryoqun/price-action-analysis/master/2014y02m10d/eurusd-m5.png)
+!(https://raw2.github.com/ryoqun/price-action-analysis/master/2014y02m10d/eurusd-m5.png "")
 
 EURUSD didn't have any significant price movement. It was in the price consolidation phase.
 
