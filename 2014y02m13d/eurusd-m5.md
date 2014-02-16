@@ -1,4 +1,4 @@
-![eurusd](https://raw2.github.com/ryoqun/price-action-analysis/master/2014y02m12d/eurusd-m5.png "")
+![eurusd](https://raw2.github.com/ryoqun/price-action-analysis/master/2014y02m13d/eurusd-m5.png "")
 
 In hindsight, bulls barely regained its momentum in the EURUSD today.
 
