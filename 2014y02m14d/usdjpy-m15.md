@@ -14,3 +14,7 @@ Up to the this stage, the market couldn't break out the major bear trend line 4,
 The bar 2 was very significant for the destiny of following mid-term trend of the market. I was expecting bear trend, however it turned out to be a two bar reversal bull setup bar. It was also breakout failure setup bar for bulls to happily jump into the market. It soared up after the bar by the way. If the bar 2 showed more strength of bear trend with like a small inside doji or a second bear trend bar, probably there would be a bear trend resumption. As discussed, really the bar 2 was the turning point.
 
 Shortly after confirming bear's weakness, I closed my bear position with small loss with market order.
+
+Usually I trade with 5 minute charts, but I used 15 minutes chart this time. So, as a record, I alst show a 5 minute chart with same time span:
+
+![chart](https://raw2.github.com/ryoqun/price-action-analysis/master/2014y02m14d/usdjpy-m15.png "")
