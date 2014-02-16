@@ -17,4 +17,4 @@ Shortly after confirming bear's weakness, I closed my bear position with small l
 
 Usually I trade with 5 minute charts, but I used 15 minutes chart this time. So, as a record, I alst show a 5 minute chart with same time span:
 
-![chart](https://raw2.github.com/ryoqun/price-action-analysis/master/2014y02m14d/usdjpy-m15.png "")
+![chart](https://raw2.github.com/ryoqun/price-action-analysis/master/2014y02m14d/usdjpy-m5.png "")
