@@ -3,7 +3,7 @@
 I was waiting the resumption of the bear trend early this day.
  The tight bear channel 5 was so impressive every trader was awaiting the bear trend resumption.
 
-First, the market broke to the downside from the pullback 7 around bar 7. Because the two legged clear pullback 6 was adequate for a pullback of the very strong bear trend, as a natural consequence, first entry 8 was created, which I missed. As first entry usually transforms often, the first entry became trading range 8. The setup was also a moving average gap setup bar 7.
+First, the market broke to the downside from the pullback 7 around bar 7. Because the two legged clear pullback 6 was adequate as a pullback of the very strong bear trend, as a natural consequence, first entry 8 was created, which I missed. As first entry usually transforms often, the first entry became trading range 8. The setup was also a moving average gap setup bar 7.
 
 As a second entry, I finally opened a bear position two bar after the failed break bar 9. To be honest, I was a bit feeling urgency of missing the bear trend again.
 
