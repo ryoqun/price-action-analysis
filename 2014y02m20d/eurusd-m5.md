@@ -1,4 +1,4 @@
-![chart](https://raw2.github.com/ryoqun/price-action-analysis/master/2014y02m20d/usdjpy-m5.png "")
+![chart](https://raw2.github.com/ryoqun/price-action-analysis/master/2014y02m20d/eurusd-m5.png "")
 
 In addition to USDJPY, I closed a bit immaturely for the fear of counter moves in EURUSD too.
 
