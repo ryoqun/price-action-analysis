@@ -4,11 +4,11 @@ Strong trading channel 1
 
 bear pullback
 
-triangle 2
+micro triangle 2
 
 bull setup bar 2 and my bull entry to the market
 
-rather string pullback 3. That feared me.
+rather strong pullback 3. That feared me.
 
 Then up trend with slower pace than the pullback 3. I exited the market fearing for a trading range or major trend reversal
 
