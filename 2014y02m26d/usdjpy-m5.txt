@@ -1,0 +1,36 @@
+![chart](https://raw2.github.com/ryoqun/price-action-analysis/master/2014y02m26d/usdjpy-m5.png "")
+
+Today, USDJPY had been very calm (the major barely sloped bull channel 3 and the inner bull channel 4).
+
+But every market moods change at some point. I was waiting the time patiently.
+
+It happened at 2. It was break out from the bull channel 4 and 4 bars closed below its previous bars. Also, it was expanding triangle with slight bear bias.
+
+Clearly, the market was getting aggressive. The end of trading range, the start of bear trend.
+
+So I tried to open bear position and really sadly failed below the low of bar 2.
+
+I was too late for 30 seconds or so to setup a sell limit order. The entry bar looks it went above my setup price. But I ordered the sell limit after it did so.
+
+The market didn't look back, indicating strong bear power. Thereby it formed a bear spike.
+
+I'm really regretful about this deed. Maybe I should enter with a market order.
+
+Finally I opened a bear position below the missed bear spike bar.
+
+I was expecting same length move down as the bear spike up to the moment. The profit target was also usual profit target of 10.0 pips from the missed original bear position at the next bar of bar 2.
+
+The market swiftly moved there and closed my position with profit.
+
+Then the market rested for short time (the micro two bar trading range 5).
+
+I missed a bear position this time too. I should setup it below the trading range 5. Actually I opened a position below the attractive bear spike.
+
+My mood was extremely bear. I was expecting the market to go down further with a following similar bear spike. However it didn't. So I closed immediately.
+
+In the cource of price action inside the bar 6. The market looked bears was alive. So I trusted on the bear again with a bear position.
+
+After the time, the market was favorable for the bear with tight triangle around the low of the major bear spike.
+
+However, an economic news is released at the bar 1. It caused a whooping price jump, closing my position with loss greatly worse than my stop loss price.
+
