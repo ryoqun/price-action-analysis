@@ -1,3 +1,5 @@
+![chart](https://raw2.github.com/ryoqun/price-action-analysis/master/2014y02m26d/eurusd-m5.png "")
+
 EURUSD did considably plunged today.
 
 Major bear trend channel 3
