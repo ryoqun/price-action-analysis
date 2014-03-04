@@ -2,11 +2,11 @@
 
 In summary, today I expected a bear move but the market failed to do so. And then I quickly switched to the bull mood but my bull position couldn't reach to the profit target by 0.2~0.3 pips and stop loss was triggered by 0.2~0.3 pips. Then market easily go to the sky, easily passing my unfilled bull position's profit.
 
-I opened the first bear position because after touching the support line 6, I expected a doulbe top pattern. I was also thinking this way considering the previous strong prolonged tight bear channel 9.
+I opened the first bear position because after touching the support line 6 completing the unstable bull channel 4, I expected a doulbe top pattern. I was also thinking this way considering the previous strong prolonged tight bear channel 9.
 
 I opened a bear position around bar 3. Then there was a trading range. Inside it, there was a small pullback. After the pullback, the market broke out down at bar 1. This was a crual part.
 
-If the market could went down, my profit target is easily filled. So I carefully watched the price action more than usual.
+If the market could went down, my profit target is easily filled. So I carefully watched the price action more than usual. As a risk the breakout could be a higher high from the bull trend line 2.
 
 After the strong bear breakout bar, there was a weak bull reversal bar. This was still acceptable. And next bar was a doji bar with long tail at top. This was very favoral for bears. So I was glad to see it.
 
