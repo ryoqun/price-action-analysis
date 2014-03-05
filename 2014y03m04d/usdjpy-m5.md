@@ -2,7 +2,7 @@
 
 I was expecting a bull trend. Although it's arrived late, the bull surely suceeded to raise up.
 
-First, as a bull trend formation, there was strong bull spike 9. It's top tails was rather big. Bulls worried to some extent for its strongness. For this reason, slow bear trend channel 5 is created (In retrospct, it failed to breakout the high of bull spile bar 9 twice inside the trading range at early stage.
+First, as a bull trend formation, there was strong bull spike 9. It's top tails was rather big. This meant that bulls worried to some extent for its strongness. For this reason, slow and long bear trend channel 5 is created (In retrospct, it failed to breakout the high of bull spike bar 9 twice inside the trading range at early stage of it.
 
 Finally, bulls maneged to escape from the prolonged bear channel by a bull spike bar 3. It was not so big but, strong enough to change the mood of the market.
 
