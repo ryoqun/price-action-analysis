@@ -6,7 +6,7 @@ At this point, there ware 2 possibilities. One is that the market creates a typi
 
 Usually, odds favor spike and channel trend. However, this spike move was so fierce because of both crazy bulls and bears. The two outcome could happen equally.
 
-By this reason, that uncertainty created relatively trading range 3 with slight bear trend for some time. Both bulls and bears were ready to move the market at any time.
+By this reason, that uncertainty created relatively tight trading range 3 with slight bear trend for some time. Both bulls and bears were ready to move the market at any time.
 
 It was bulls that moved first. At bar 4, the bull succeeded to create a strong bull spike 4. The spike's size was like the previous storm.
 
