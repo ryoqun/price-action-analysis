@@ -23,7 +23,7 @@ the bull spike bar 4
 
 I thought the almost vertical rampent price up down moves = rhtym had happened at the breakout from the bear channel.
 
-The bull spike bar 7 was so extreme that a fierce backfire is immenient.
+The bull spike bar 7 was so extreme that a fierce backfire is immenient. largely overshotting the major resistence line 8.
 
 a almost-identical continuation doji bar after the strong two bar reversal from the spike 7.
 
