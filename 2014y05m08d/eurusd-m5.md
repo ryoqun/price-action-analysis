@@ -10,4 +10,4 @@ However, the market failed to breakout and turned down hard. The next bar of the
 
 The high of the spike was close my profit target. However it didn't touch.
 
-After that, the market created extremely rare strong bear trend with whopping 140.0 pip.s move.
+After that, the market created extremely rare strong bear trend with whopping 140.0 pips move.
