@@ -1,4 +1,4 @@
-+![chart](https://raw2.github.com/ryoqun/price-action-analysis/master/2014y05m08d/eurusd-m5.png "")
+![chart](https://raw2.github.com/ryoqun/price-action-analysis/master/2014y05m08d/eurusd-m5.png "")
 
 Today, I tried to profit from extremely strong bull trend caused by a economic news release. But I failed miserably...
 
