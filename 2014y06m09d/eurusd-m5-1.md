@@ -1,4 +1,4 @@
-![chart](https://raw2.github.com/ryoqun/price-action-analysis/master/2014y06m09d/eurusd-m5.png "")
+![chart](https://raw2.github.com/ryoqun/price-action-analysis/master/2014y06m09d/eurusd-m5-1.png "")
 
 I traded very aggressively today.
 
